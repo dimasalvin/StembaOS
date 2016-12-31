@@ -1,0 +1,30 @@
+Origin: Ubuntu
+Label: Ubuntu
+Suite: trusty
+Version: 14.04
+Codename: trusty
+Date: Thu, 08 May 2014 14:19:09 UTC
+Architectures: i386
+Components: main restricted
+Description: Ubuntu Trusty 14.04
+MD5Sum:
+ 597bd61f5dc069694e425070241bd2d9      101 restricted/binary-i386/Release
+ 492557909c0b99caa2646f5f5a4f731b     1540 restricted/binary-i386/Packages.gz
+ 3b98c0708b28db70901b073a70eca315     2946 restricted/binary-i386/Packages
+ 60cd95dff4f53976b4179a8a061a666e       95 main/binary-i386/Release
+ bbb7175a2e5fd34bda57477c37a5c83b     7144 main/binary-i386/Packages.gz
+ e83c29e8d22eb644550b5adb286a4b1c    18998 main/binary-i386/Packages
+SHA1:
+ 912736ac362f34b555ea831060fe7fda99953c07      101 restricted/binary-i386/Release
+ f6b807493156d9bd1610a42f7decdb35a061ee49     1540 restricted/binary-i386/Packages.gz
+ 4ef6b601289ef5e489c42ff122491729c54285e9     2946 restricted/binary-i386/Packages
+ 874b6cd3776f85508fc3633b8c095c3422d8185c       95 main/binary-i386/Release
+ eca8030351f7d837b3ff715343cde380fc8ebed9     7144 main/binary-i386/Packages.gz
+ 189dbcb242f79c60546d899d27798547ac2d4efb    18998 main/binary-i386/Packages
+SHA256:
+ df128768f2525c928168acc7ea3761b447139c7f7e8f213c447783e7fae75845      101 restricted/binary-i386/Release
+ 09c821658e399a70a0e1335d046f6e14a62648879d35278084305617bbd94ea9     1540 restricted/binary-i386/Packages.gz
+ 44fd540626bd62bf0ef5da8516ec2b9b15be840cc7b781ea3e41bceb365d233f     2946 restricted/binary-i386/Packages
+ 4984b26984b4e9e7de18c48e724e1bdd970868c84fc0e950e88f12592cd43501       95 main/binary-i386/Release
+ 83fdd829b9720874d3f99c14caa68acbe577f8fd52a6c1c69f465ed9e0d2dd77     7144 main/binary-i386/Packages.gz
+ 6d3bf38054e6781a28b9a391250fbefd1d7a92a10766ba600d36abd19096cc2b    18998 main/binary-i386/Packages
